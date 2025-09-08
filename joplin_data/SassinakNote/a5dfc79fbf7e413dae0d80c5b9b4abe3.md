@@ -1,0 +1,13 @@
+id: a5dfc79fbf7e413dae0d80c5b9b4abe3
+parent_id: 
+item_type: 1
+item_id: ae346739127c4e518575ef589ec74f02
+item_updated_time: 1754576984659
+title_diff: "[{\"diffs\":[[1,\"a4f0b1a72d2c4319baa8260406171a6c\"]],\"start1\":0,\"start2\":0,\"length1\":0,\"length2\":32}]"
+body_diff: "[{\"diffs\":[[1,\"id: a4f0b1a72d2c4319baa8260406171a6c\\\nparent_id: \\\nitem_type: 1\\\nitem_id: 2cf3f11751674e4590d8655d45e911f4\\\nitem_updated_time: 1753305195576\\\ntitle_diff: \\\"[{\\\\\\\"diffs\\\\\\\":[[1,\\\\\\\"标题语法\\\\\\\"]],\\\\\\\"start1\\\\\\\":0,\\\\\\\"start2\\\\\\\":0,\\\\\\\"length1\\\\\\\":0,\\\\\\\"length2\\\\\\\":4}]\\\"\\\nbody_diff: \\\"[{\\\\\\\"diffs\\\\\\\":[[1,\\\\\\\"# 标题语法\\\\\\\\\\\\\n\\\\\\\\\\\\\n要**创建标题**，请在单词或短语前面添加井号 (**#**) 。# 的数量代表了标题的级别。例如，添加三个 # 表示创建一个三级标题 \\\\\\\\\\\\\n(例如：### My Header)。\\\\\\\"]],\\\\\\\"start1\\\\\\\":0,\\\\\\\"start2\\\\\\\":0,\\\\\\\"length1\\\\\\\":0,\\\\\\\"length2\\\\\\\":96}]\\\"\\\nmetadata_diff: {\\\"new\\\":{\\\"id\\\":\\\"2cf3f11751674e4590d8655d45e911f4\\\",\\\"parent_id\\\":\\\"ff5ab37348494c388d3e7d086892fe38\\\",\\\"latitude\\\":\\\"35.69000000\\\",\\\"longitude\\\":\\\"139.69000000\\\",\\\"altitude\\\":\\\"0.0000\\\",\\\"author\\\":\\\"\\\",\\\"source_url\\\":\\\"\\\",\\\"is_todo\\\":0,\\\"todo_due\\\":0,\\\"todo_completed\\\":0,\\\"source\\\":\\\"joplin-desktop\\\",\\\"source_application\\\":\\\"net.cozic.joplin-desktop\\\",\\\"application_data\\\":\\\"\\\",\\\"order\\\":438326270524.5,\\\"user_updated_time\\\":1753305175376,\\\"markup_language\\\":1,\\\"is_shared\\\":0,\\\"share_id\\\":\\\"\\\",\\\"conflict_original_id\\\":\\\"\\\",\\\"master_key_id\\\":\\\"\\\",\\\"user_data\\\":\\\"\\\",\\\"deleted_time\\\":0},\\\"deleted\\\":[]}\\\nencryption_cipher_text: \\\nencryption_applied: 0\\\nupdated_time: 2025-07-23T21:19:39.074Z\\\ncreated_time: 2025-07-23T21:19:39.074Z\\\ntype_: 13\"]],\"start1\":0,\"start2\":0,\"length1\":0,\"length2\":1113}]"
+metadata_diff: {"new":{"id":"ae346739127c4e518575ef589ec74f02","parent_id":"c1fdd44bbf44482c9bc772c90e1085f1","latitude":"0.00000000","longitude":"0.00000000","altitude":"0.0000","author":"","source_url":"","is_todo":0,"todo_due":0,"todo_completed":0,"source":"joplin-desktop","source_application":"net.cozic.joplin-desktop","application_data":"","order":1754576627222,"user_updated_time":1754573831341,"markup_language":1,"is_shared":0,"share_id":"","conflict_original_id":"","master_key_id":"","user_data":"","deleted_time":1754576984659},"deleted":[]}
+encryption_cipher_text: 
+encryption_applied: 0
+updated_time: 2025-08-07T14:39:40.035Z
+created_time: 2025-08-07T14:39:40.035Z
+type_: 13

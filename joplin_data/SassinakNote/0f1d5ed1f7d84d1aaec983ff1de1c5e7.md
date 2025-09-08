@@ -1,0 +1,13 @@
+id: 0f1d5ed1f7d84d1aaec983ff1de1c5e7
+parent_id: 
+item_type: 1
+item_id: df225332bb984ecdafde9396dbe508a7
+item_updated_time: 1754576984982
+title_diff: "[{\"diffs\":[[1,\"c6f55f8699944fa6a6d85dceef61d332\"]],\"start1\":0,\"start2\":0,\"length1\":0,\"length2\":32}]"
+body_diff: "[{\"diffs\":[[1,\"id: c6f55f8699944fa6a6d85dceef61d332\\\nparent_id: 6afe9ff6b8de404ea306829435caf698\\\nitem_type: 1\\\nitem_id: c3a73b1060cc4b25b3595982674956c9\\\nitem_updated_time: 1753457302039\\\ntitle_diff: \\\"[]\\\"\\\nbody_diff: \\\"[{\\\\\\\"diffs\\\\\\\":[[0,\\\\\\\" 基本知识：\\\\\\\\\\\\\n\\\\\\\\\\\\\n\\\\\\\"],[1,\\\\\\\"1. 类的成员函数是定义在**类的内部**的函数，成员函数可以**直接访问**类的成员变量和其他成员函数，包括私有类\\\\\\\\\\\\\n\\\\\\\\\\\\\n2. 成员函数被隐式传递一个指向当前对象的指针（**即this指针**），可以对对象进行操作和访问。\\\\\\\\\\\\\n\\\\\\\\\\\\\n3. 静态函数是属于某个类的函数，可以通过类名**直接调用**，而不需要通过对象来访问\\\\\\\\\\\\\n必须注意：静态函数**只能访问**静态成员变量和其他静态成员函数，**不能访问**非静态的成员变量和成员函数\\\\\\\\\\\\\n\\\\\\\\\\\\\n4. 值得注意的是，即便我们的类是一个**空类**，也会默认生成6个成员函数\\\\\\\\\\\\\n\\\\\\\\\\\\\n![efd87b3b9c6c6f393aa270b1ec03f666.png](:/2e00f0cfb96143e9a8bd6b0f8a6b746d)\\\\\\\\\\\\\n\\\\\\\\\\\\\n类里面的成员函数是放在**公共的代码段**的，也就是说在内存的角度来说，一个对象的大小只包括了其成员变量，并不包括它的成员函数。\\\\\\\\\\\\\n\\\\\\\\\\\\\n5. 需要注意的是：形参传递权限**可以缩小或者不变，但不能放大**，比如 `int*` 允许被传递给`int*`和`const int*`，但是`const int*`不允许传递到`int*`\\\\\\\\\\\\\n在成员函数的参数列表中，`this`是不能显示的用const写出来的，但是可以在成员函数之后用`const`修饰以告诉编译器\\\\\\\\\\\\\n\\\\\\\\\\\\\n>void Print() const// 编译器默认处理成：void Print(const Date* const this)\\\\\\\\\\\\\n\\\\\\\\\\\\\n\\\\\\\\\\\\\n\\\\\\\"]],\\\\\\\"start1\\\\\\\":12,\\\\\\\"start2\\\\\\\":12,\\\\\\\"length1\\\\\\\":8,\\\\\\\"length2\\\\\\\":633}]\\\"\\\nmetadata_diff: {\\\"new\\\":{\\\"order\\\":1753456910544},\\\"deleted\\\":[]}\\\nencryption_cipher_text: \\\nencryption_applied: 0\\\nupdated_time: 2025-07-25T15:32:49.115Z\\\ncreated_time: 2025-07-25T15:32:49.115Z\\\ntype_: 13\"]],\"start1\":0,\"start2\":0,\"length1\":0,\"length2\":1181}]"
+metadata_diff: {"new":{"id":"df225332bb984ecdafde9396dbe508a7","parent_id":"c1fdd44bbf44482c9bc772c90e1085f1","latitude":"0.00000000","longitude":"0.00000000","altitude":"0.0000","author":"","source_url":"","is_todo":0,"todo_due":0,"todo_completed":0,"source":"joplin-desktop","source_application":"net.cozic.joplin-desktop","application_data":"","order":1754576628168,"user_updated_time":1754573830612,"markup_language":1,"is_shared":0,"share_id":"","conflict_original_id":"","master_key_id":"","user_data":"","deleted_time":1754576984982},"deleted":[]}
+encryption_cipher_text: 
+encryption_applied: 0
+updated_time: 2025-08-07T14:39:40.406Z
+created_time: 2025-08-07T14:39:40.406Z
+type_: 13
